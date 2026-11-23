@@ -1,0 +1,10 @@
+build/
+*.o
+*.exe
+*.db
+*.pro.user
+Makefile
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
